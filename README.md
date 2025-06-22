@@ -93,10 +93,10 @@
 
 ## 📊 Estadísticas
 <p align="center">
-  <img
+<!--   <img
     src="https://github-readme-stats.vercel.app/api?username=jhossepsamuel231&show_icons=true&theme=dark"
     alt="jhossepsamuel231’s GitHub Stats"
-  />
+  /> -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhossepsamuel231&layout=compact&theme=dark"
     alt="Top Langs"
