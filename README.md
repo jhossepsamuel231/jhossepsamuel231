@@ -93,7 +93,7 @@
 
 ## 📊 Estadísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhossepSamuel1231&show_icons=true&theme=dark" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhossepSamuel1231&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jhossepsamuel1231&show_icons=true&theme=dark" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhossepsamuel1231&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 
